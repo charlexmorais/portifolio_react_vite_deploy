@@ -1,61 +1,36 @@
-.Background{
-  background-color:#e2e8f0 ;
+.Background {
+  background-color: #e2e8f0;
   margin: 0;
   padding: 0;
-  font-family:'Times New Roman';
+  font-family: "Times New Roman";
 }
 
 
-.navbar {
-  display: flex;
-  justify-content: center; 
-  margin-top: 20px; 
-}
-
-.navbar-nav {
-  display: flex;
-  list-style-type: none; 
-  padding: 0; 
-}
-
-.nav-item {
-  margin: 0 10px; 
-}
-
-.nav-link {
-  text-decoration: none; 
-  color: #333;
-  font-weight: bold; 
-}
-
-.nav-link:hover {
-  color: #666; 
-}
 .perfil-photo .minha-imagem {
-  width: 160px; 
-  height: auto; 
+  width: 160px;
+  height: auto;
 }
 .content {
   display: flex;
   flex-direction: column;
-  align-items: center; 
+  align-items: center;
 }
 
 footer {
-  margin-top: auto; 
-  text-align: center; 
+  margin-top: auto;
+  text-align: center;
+}
 
-}
-footer h1, footer h2 {
-  margin-bottom: 5px; 
-}
 .img-icones {
-  display: flex; 
+  display: flex;
+  margin-bottom: 2%;
+  
 }
 
 .img-icones img {
-  width: 40px; 
-  height: 40px; 
-  margin-right: 10px; 
-  
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
 }
+
+
